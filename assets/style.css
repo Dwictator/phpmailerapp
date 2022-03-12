@@ -1,0 +1,33 @@
+
+
+.text-title{
+    text-align: center;
+}
+
+.form-email{
+    display: grid;
+    width: 40%;
+    margin: auto;
+}
+
+.input-recipient{
+    margin: 4px;
+    padding: 5px;
+}
+
+.input-subject{
+    margin: 4px;
+    padding: 5px;
+}
+
+.message-body{
+    margin: 4px;
+    overflow: auto;
+    resize: vertical;
+}
+
+.button-send{
+    padding: 10px;
+    font-size: large;
+    font-weight: bold;
+}
